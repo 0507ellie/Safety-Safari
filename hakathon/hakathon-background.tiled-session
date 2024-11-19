@@ -1,0 +1,51 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "全部檔案 (*)",
+    "fileStates": {
+        "background.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.33
+        },
+        "class1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "class2.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "classroom.tsx": {
+            "scaleInDock": 0.0625,
+            "scaleInEditor": 0.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/chang/OneDrive/文件",
+    "last.imagePath": "C:/Users/chang/OneDrive/文件",
+    "map.height": 32,
+    "map.lastUsedExportFilter": "全部檔案 (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 32,
+    "openFiles": [
+        "background.tsx",
+        "class1.tsx"
+    ],
+    "project": "hakathon-background.tiled-project",
+    "recentFiles": [
+        "background.tsx",
+        "class1.tsx",
+        "class2.tsx",
+        "classroom.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
